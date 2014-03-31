@@ -17,8 +17,7 @@ How to use
 
 Simply run:
 
-```python sunglasses.py
-```
+    python sunglasses.py
 
 And it'll show you the progress as it downloads and saves data to CSV files in their respective categories. By default,
 this tool dumps everything into a `data` folder in the same folder as the script.
